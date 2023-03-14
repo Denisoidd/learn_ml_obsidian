@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a6c838f64e2f5afa",
+        "id": "c1e43045d0e4f271",
         "type": "tabs",
         "children": [
           {
-            "id": "84a1aec464a23405",
+            "id": "d68e887d537fe6c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ML/Theory on CONV.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/images/Pasted image 20230307211751.png",
+                "file": "ML/Theory on CONV.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/images/Pasted image 20230307211751.png",
+                "file": "ML/Theory on CONV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/images/Pasted image 20230307211751.png"
+                "file": "ML/Theory on CONV.md"
               }
             }
           },
@@ -152,41 +156,42 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2563bedc355dd784",
+  "active": "d68e887d537fe6c8",
   "lastOpenFiles": [
+    "ML/Softmax classification.md",
     "ML/Theory on CONV.md",
-    "ML/ResNet.md",
     "ML/Conv Networks.md",
-    "ML/Architectures.md",
+    "ML/Tricks.md",
+    "ML/To refresh - learn about.md",
+    "ML/SVM classification.md",
+    "ML/Sigmoid.md",
+    "ML/SENet.md",
+    "ML/ResNeXt.md",
+    "ML/ResNet.md",
+    "ML/ReLU.md",
+    "ML/Points to work at - Questions.md",
+    "ML/Parameter update schemes.md",
+    "ML/Parameter search.md",
+    "ML/Optimization process.md",
     "ML/Neural networks.md",
-    "ML/images/Pasted image 20230311200343.png",
-    "ML/images",
-    "ML/Dropout.md",
+    "ML/Matrix trics.md",
+    "ML/Learn about.md",
     "ML/Layers.md",
     "ML/Layer normalisation.md",
-    "ML/Batch Normalisation.md",
-    "ML/images/Pasted image 20230314092137.png",
+    "ML/kNN classification.md",
+    "ML/k-Fold cross validation.md",
     "ML/Interesting points.md",
-    "ML/Learn about.md",
-    "ML/To refresh - learn about.md",
-    "ML/Points to work at - Questions.md",
-    "ML/Tricks.md",
-    "ML/Parameter search.md",
-    "ML/Xavier initialisation.md",
-    "ML/3D Vision.md",
-    "ML/ResNeXt.md",
     "ML/GoogLeNet - Inception.md",
+    "ML/Flashcards.md",
+    "ML/Dropout.md",
+    "ML/images/Pasted image 20230311200343.png",
+    "ML/images",
+    "ML/images/Pasted image 20230314092137.png",
     "ML/images/Pasted image 20230311201929.png",
-    "ML/SENet.md",
     "ML/images/Pasted image 20230311201244.png",
     "ML/images/Pasted image 20230311200702.png",
     "ML/images/Pasted image 20230311200632.png",
-    "ML/Activations.md",
-    "ML/ReLU.md",
-    "ML/Sigmoid.md",
-    "ML/Flashcards.md",
     "ML/Untitled.canvas",
-    "ML/Untitled.md",
     "ML/images/Pasted image 20230310151422.png",
     "ML/images/Pasted image 20230310151353.png",
     "ML/images/Pasted image 20230309100802.png",
