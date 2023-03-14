@@ -18,7 +18,21 @@ $$
 &\text{where } W' = \frac{W + 2p - WW}{s} + 1&\\
 \\
 &\text{Final tensor could be obtained by the following multiplication:}\\
-&O_{i,j,f} = \sum_{c=0}^{C}\sum_{\hat{j}=0}^{WW}\sum_{\hat{i} = 0}^{HH}\hat{I}_{is + \hat{i}, js + \hat{j}, c} \odot W_{\hat{i}, \hat{j}, f} + b_{f}
+&O_{i,j,f} = \sum_{c=0}^{C}\sum_{\hat{j}=0}^{WW}\sum_{\hat{i} = 0}^{HH}\hat{I}_{is + \hat{i}, js + \hat{j}, c} \odot W_{\hat{i}, \hat{j}, f} + b_{f},\\
+&\text{where } \hat{I} \text{ is a padded image}
 \end{align*}
 $$
 
+### Backpropagation
+$$
+\begin{align*}
+&\text{With the use of above notation:} \\
+&\dfrac{\partial L}{\partial W_{k,l,f}} = \dfrac{\partial L}{\partial O_{i, j, f}}\dfrac{\partial O_{i, j, f}}{\partial W_{k,l,f}} \\
+\\
+& \text{First derivative } -  \dfrac{\partial L}{\partial O_{i, j, f}}\text{ depends only on further loss function.} \\
+&\text{Let's concentrate on the second: } \\
+& \dfrac{\partial O_{i, j, f}}{\partial W_{k,l,f}}  = \dfrac{\partial}{\partial W_{k,l,f}}\sum_{c=0}^{C}\sum_{\hat{j}=0}^{WW}\sum_{\hat{i} = 0}^{HH}\hat{I}_{is + \hat{i}, js + \hat{j}, c}\odot W_{\hat{i}, \hat{j}, f}\\
+
+
+\end{align*}
+$$
