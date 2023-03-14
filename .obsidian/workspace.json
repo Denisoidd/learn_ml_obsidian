@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "e337cf8a7eab796c",
+    "type": "split",
+    "children": [
+      {
+        "id": "92da6838dbdce437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe5625e39f5da3bd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ML/images/Pasted image 20230307211751.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7991732e8a750766",
+    "type": "split",
+    "children": [
+      {
+        "id": "c558dee61a2dd15e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2563bedc355dd784",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09b7737b5aa8d1a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d3b0843c12a0ffb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02dec5a7861e4e34",
+    "type": "split",
+    "children": [
+      {
+        "id": "3615746f79abb8c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcfbab109305fb82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ML/images/Pasted image 20230307211751.png",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "652ce22ca305ddc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ML/images/Pasted image 20230307211751.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "369f298bbdbd9d8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c8c596afd8eeed5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ML/images/Pasted image 20230307211751.png"
+              }
+            }
+          },
+          {
+            "id": "bb1bc4c44c2b6213",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "2563bedc355dd784",
+  "lastOpenFiles": [
+    "ML/Theory on CONV.md",
+    "ML/ResNet.md",
+    "ML/Conv Networks.md",
+    "ML/Architectures.md",
+    "ML/Neural networks.md",
+    "ML/images/Pasted image 20230311200343.png",
+    "ML/images",
+    "ML/Dropout.md",
+    "ML/Layers.md",
+    "ML/Layer normalisation.md",
+    "ML/Batch Normalisation.md",
+    "ML/images/Pasted image 20230314092137.png",
+    "ML/Interesting points.md",
+    "ML/Learn about.md",
+    "ML/To refresh - learn about.md",
+    "ML/Points to work at - Questions.md",
+    "ML/Tricks.md",
+    "ML/Parameter search.md",
+    "ML/Xavier initialisation.md",
+    "ML/3D Vision.md",
+    "ML/ResNeXt.md",
+    "ML/GoogLeNet - Inception.md",
+    "ML/images/Pasted image 20230311201929.png",
+    "ML/SENet.md",
+    "ML/images/Pasted image 20230311201244.png",
+    "ML/images/Pasted image 20230311200702.png",
+    "ML/images/Pasted image 20230311200632.png",
+    "ML/Activations.md",
+    "ML/ReLU.md",
+    "ML/Sigmoid.md",
+    "ML/Flashcards.md",
+    "ML/Untitled.canvas",
+    "ML/Untitled.md",
+    "ML/images/Pasted image 20230310151422.png",
+    "ML/images/Pasted image 20230310151353.png",
+    "ML/images/Pasted image 20230309100802.png",
+    "ML/images/Pasted image 20230308184718.png",
+    "ML",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
