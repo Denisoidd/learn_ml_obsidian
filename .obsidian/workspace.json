@@ -8,18 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d68e887d537fe6c8",
+            "id": "a07432d6d8a6a433",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Theory on CONV.md",
+                "file": "SE/TRT Inference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b90108ea9a0a9ae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b446a9de1688909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SE/TensorRT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Theory on CONV.md",
+                "file": "SE/TensorRT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Theory on CONV.md",
+                "file": "SE/TensorRT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Theory on CONV.md"
+                "file": "SE/TensorRT.md"
               }
             }
           },
@@ -156,8 +177,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d68e887d537fe6c8",
+  "active": "2563bedc355dd784",
   "lastOpenFiles": [
+    "SE",
+    "SE/TRT Inference.md",
+    "SE/TensorRT.md",
+    "SE/TRT Builder.md",
     "ML/Theory on CONV.md",
     "ML/Softmax classification.md",
     "ML/Conv Networks.md",
@@ -180,10 +205,6 @@
     "ML/Layer normalisation.md",
     "ML/kNN classification.md",
     "ML/k-Fold cross validation.md",
-    "ML/Interesting points.md",
-    "ML/GoogLeNet - Inception.md",
-    "ML/Flashcards.md",
-    "ML/Dropout.md",
     "ML/images/Pasted image 20230311200343.png",
     "ML/images",
     "ML/images/Pasted image 20230314092137.png",
