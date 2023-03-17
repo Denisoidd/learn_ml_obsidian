@@ -1,5 +1,4 @@
 #DL 
-[[Batch Normalisation]]
-[[Layer normalisation]]
+[[Normalisation layers]]
 [[Dropout]]
 **[Fully connected network](https://colab.research.google.com/drive/1r5Lur6UCCD4x7MyYkJUwfXZEFTonCJoF#scrollTo=4H6AHiqR-91l)**

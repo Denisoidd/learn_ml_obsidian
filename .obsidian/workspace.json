@@ -8,39 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a07432d6d8a6a433",
+            "id": "7af5dc5f198657f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/TRT Inference.md",
+                "file": "ML/RNN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6b90108ea9a0a9ae",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8b446a9de1688909",
+            "id": "4fc8ee500220bab8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/TensorRT.md",
+                "file": "ML/Normalisation layers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "406a3fb80196a57d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Kaiming initialisation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51f11bef3032353b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/RNN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/TensorRT.md",
+                "file": "ML/RNN.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/TensorRT.md",
+                "file": "ML/RNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/TensorRT.md"
+                "file": "ML/RNN.md"
               }
             }
           },
@@ -179,44 +195,44 @@
   },
   "active": "2563bedc355dd784",
   "lastOpenFiles": [
-    "SE",
-    "SE/TRT Inference.md",
-    "SE/TensorRT.md",
-    "SE/TRT Builder.md",
-    "ML/Theory on CONV.md",
-    "ML/Softmax classification.md",
-    "ML/Conv Networks.md",
+    "ML/Group normalisation.md",
+    "ML/Kaiming initialisation.md",
+    "ML/Normalisation layers.md",
+    "ML/RNN.md",
+    "ML/Pasted image 20230317174849.png",
+    "ML/Pasted image 20230316095754.png",
+    "ML/Architectures.md",
+    "ML/Neural networks.md",
+    "ML/Layers.md",
+    "ML/Pasted image 20230317174015.png",
+    "ML/Pasted image 20230317173601.png",
+    "ML/Pasted image 20230317173314.png",
+    "ML/Pasted image 20230317172202.png",
+    "ML/Pasted image 20230317171546.png",
+    "ML/Pasted image 20230317165052.png",
+    "ML/Pasted image 20230317164159.png",
+    "ML/Pasted image 20230317163805.png",
     "ML/Tricks.md",
     "ML/To refresh - learn about.md",
+    "ML/Layer normalisation.md",
+    "ML/Batch Normalisation.md",
+    "ML/Points to work at - Questions.md",
+    "ML/Theory on CONV.md",
+    "SE/TensorRT.md",
+    "SE",
+    "SE/TRT Inference.md",
+    "SE/TRT Builder.md",
+    "ML/Softmax classification.md",
+    "ML/Conv Networks.md",
     "ML/SVM classification.md",
     "ML/Sigmoid.md",
     "ML/SENet.md",
     "ML/ResNeXt.md",
     "ML/ResNet.md",
     "ML/ReLU.md",
-    "ML/Points to work at - Questions.md",
     "ML/Parameter update schemes.md",
-    "ML/Parameter search.md",
-    "ML/Optimization process.md",
-    "ML/Neural networks.md",
-    "ML/Matrix trics.md",
-    "ML/Learn about.md",
-    "ML/Layers.md",
-    "ML/Layer normalisation.md",
-    "ML/kNN classification.md",
-    "ML/k-Fold cross validation.md",
-    "ML/images/Pasted image 20230311200343.png",
     "ML/images",
-    "ML/images/Pasted image 20230314092137.png",
-    "ML/images/Pasted image 20230311201929.png",
-    "ML/images/Pasted image 20230311201244.png",
-    "ML/images/Pasted image 20230311200702.png",
-    "ML/images/Pasted image 20230311200632.png",
     "ML/Untitled.canvas",
-    "ML/images/Pasted image 20230310151422.png",
-    "ML/images/Pasted image 20230310151353.png",
-    "ML/images/Pasted image 20230309100802.png",
-    "ML/images/Pasted image 20230308184718.png",
     "ML",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
