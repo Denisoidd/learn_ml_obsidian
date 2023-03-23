@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c1e43045d0e4f271",
+        "id": "937f87d28d88c888",
         "type": "tabs",
         "children": [
           {
-            "id": "7af5dc5f198657f0",
+            "id": "df4061e30595a6ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ML/RNN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fc8ee500220bab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Normalisation layers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "406a3fb80196a57d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Kaiming initialisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51f11bef3032353b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/RNN.md",
-                "mode": "source",
-                "source": false
+                "file": "ML/images/Pasted image 20230316095754.png"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/RNN.md",
+                "file": "ML/images/Pasted image 20230316095754.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/RNN.md",
+                "file": "ML/images/Pasted image 20230316095754.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/RNN.md"
+                "file": "ML/images/Pasted image 20230316095754.png"
               }
             }
           },
@@ -195,23 +156,26 @@
   },
   "active": "2563bedc355dd784",
   "lastOpenFiles": [
+    "ML/images/Pasted image 20230318092028.png",
+    "ML/Neural networks.md",
+    "ML/Attention.md",
+    "ML/images/Pasted image 20230323210126.png",
+    "ML/images/Pasted image 20230323205432.png",
+    "ML/images/Pasted image 20230323205113.png",
+    "ML/images/Pasted image 20230323204907.png",
+    "ML/images/Pasted image 20230323204458.png",
+    "ML/RNN.md",
+    "ML/Flashcards.md",
+    "ML/Interesting points.md",
+    "ML/images/Pasted image 20230318094756.png",
+    "ML/images/Pasted image 20230318093847.png",
+    "ML/images/Pasted image 20230318093734.png",
+    "ML/images/Pasted image 20230318092636.png",
     "ML/Group normalisation.md",
     "ML/Kaiming initialisation.md",
     "ML/Normalisation layers.md",
-    "ML/RNN.md",
-    "ML/Pasted image 20230317174849.png",
-    "ML/Pasted image 20230316095754.png",
     "ML/Architectures.md",
-    "ML/Neural networks.md",
     "ML/Layers.md",
-    "ML/Pasted image 20230317174015.png",
-    "ML/Pasted image 20230317173601.png",
-    "ML/Pasted image 20230317173314.png",
-    "ML/Pasted image 20230317172202.png",
-    "ML/Pasted image 20230317171546.png",
-    "ML/Pasted image 20230317165052.png",
-    "ML/Pasted image 20230317164159.png",
-    "ML/Pasted image 20230317163805.png",
     "ML/Tricks.md",
     "ML/To refresh - learn about.md",
     "ML/Layer normalisation.md",
@@ -228,9 +192,6 @@
     "ML/Sigmoid.md",
     "ML/SENet.md",
     "ML/ResNeXt.md",
-    "ML/ResNet.md",
-    "ML/ReLU.md",
-    "ML/Parameter update schemes.md",
     "ML/images",
     "ML/Untitled.canvas",
     "ML",
