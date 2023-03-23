@@ -1,4 +1,4 @@
-#DL 
+#classic  
 **Always use random search**
 ![[Pasted image 20230307211751.png]]
 

@@ -1,3 +1,3 @@
 #DL 
 [[Conv Networks]]
-[[RNN]]
+[[Sequences]]

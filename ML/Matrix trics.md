@@ -1,4 +1,4 @@
-
+#classic 
 1. **[Gateaux derivative](https://en.wikipedia.org/wiki/Gateaux_derivative)**  - for matrix differentiation
 2. Bias tric:
 	 Add one more dimension to weights with ones to include bias:
