@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/RNN.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/RNN.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/RNN.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/RNN.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,10 +156,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2563bedc355dd784",
+  "active": "0feb0e5c8d107629",
   "lastOpenFiles": [
-    "ML/To refresh - learn about.md",
+    "knowledge_graph.png",
+    "README.md",
+    "ML/Softmax classification.md",
     "ML/RNN.md",
+    "ML/To refresh - learn about.md",
     "ML/Activations.md",
     "ML/Sigmoid.md",
     "ML/Tanh.md",
@@ -183,9 +186,6 @@
     "ML/Classic algorithms.md",
     "ML/Classification.md",
     "ML/kNN classification.md",
-    "ML/Matrix trics.md",
-    "ML/Parameter search.md",
-    "ML/Parameter update schemes.md",
     "ML/images/Pasted image 20230316095754.png",
     "ML/images/Pasted image 20230318092028.png",
     "ML/images/Pasted image 20230323210126.png",
@@ -195,7 +195,6 @@
     "ML/images/Pasted image 20230323204458.png",
     "ML/images/Pasted image 20230318094756.png",
     "ML/images/Pasted image 20230318093847.png",
-    "ML/images/Pasted image 20230318093734.png",
     "SE",
     "ML/images",
     "ML/Untitled.canvas",
