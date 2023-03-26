@@ -1,4 +1,7 @@
 #DL 
+### Links
+**[Image captioning with RNN notebook](https://colab.research.google.com/drive/1MPEW2m1Q4Oa8-HDsLOYJoUAF4sIM-ukd#scrollTo=d2f9cc2a)**
+
 ### Introduction
 #### Sequential data
 Problems with **one-to-many**, **one-to-one**, **many-to-one**, **many-to-many**.
@@ -62,6 +65,12 @@ $$
 #### One-hot vector problem
 
 Insert an **embedding layer**. Solve the problem with raw zero one inputs. 
+
+#### Backpropagation
+
+During backpropagation we need to take into account **two** input gradients:
+1. Gradient produces by loss function for a given sequence element
+2. Gradient from the upper hidden layer (for the last hidden layer it's **zero**)
 
 #### Backpropagation through time
 ![[Pasted image 20230317165052.png]]
