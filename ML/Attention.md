@@ -1,5 +1,6 @@
 #DL 
 **Links**
+**[Transformer implementation](https://colab.research.google.com/drive/1a7uFSHgQWJZcdfrOsaij1K-uMhVuAP2K#scrollTo=fdfd8db3)**
 [[Visual Transformer]]
 
 ### Introduction
@@ -71,3 +72,16 @@ Output vector: $y = \sum_{i} a_iX_i$ of shape $D_X$
 ![[Pasted image 20230323210126.png]]
 * Self-attention is the only interaction between vectors
 * Layer norm and MLP work independently per vector
+
+### Positional Encoding
+![[Pasted image 20230328203710.png]]
+**Good video explanation:**
+**[Link](https://www.youtube.com/watch?v=dichIcUZfOw)**
+
+**Why other functions do not work?**
+1. We need a function which assigns same values for the same position, **not depending on the sequence length**
+2. Also we should be able to separate these positions in our periodic function. To do so, we add many frequences by varying **j** and **sin** and **cos** functions
+
+**Another good picture**
+![[Pasted image 20230328205458.png]]
+

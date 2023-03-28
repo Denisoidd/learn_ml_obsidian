@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c7beff2e4e562fbb",
+        "id": "dce534f56f708f59",
         "type": "tabs",
         "children": [
           {
-            "id": "0feb0e5c8d107629",
+            "id": "6688d97501b9a8f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "ML/Attention.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "ML/Attention.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "ML/Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "ML/Attention.md"
               }
             }
           },
@@ -156,28 +156,30 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0feb0e5c8d107629",
+  "active": "6688d97501b9a8f3",
   "lastOpenFiles": [
-    "knowledge_graph.png",
+    "ML/Pasted image 20230328203710.png",
+    "ML/Attention.md",
+    "ML/Pasted image 20230328205458.png",
+    "ML/Sigmoid.md",
+    "Project work.canvas",
+    "Transformer Architecture.canvas",
+    "ML/To refresh - learn about.md",
+    "ML/Interesting points.md",
+    "ML/Learn about.md",
     "README.md",
+    "knowledge_graph.png",
     "ML/Softmax classification.md",
     "ML/RNN.md",
-    "ML/To refresh - learn about.md",
     "ML/Activations.md",
-    "ML/Sigmoid.md",
     "ML/Tanh.md",
     "ML/ReLU.md",
     "ML/Sequences.md",
-    "ML/Learn about.md",
     "ML/Points to work at - Questions.md",
-    "ML/Interesting points.md",
     "ML/Architectures.md",
-    "Project work.canvas",
-    "Transformer Architecture.canvas",
     "ML/3D Vision.md",
     "Object detection.md",
     "Visual Transformer.md",
-    "ML/Attention.md",
     "ML/Different topics.md",
     "ML/Neural networks.md",
     "ML/Initialisations.md",
@@ -193,8 +195,6 @@
     "ML/images/Pasted image 20230323205113.png",
     "ML/images/Pasted image 20230323204907.png",
     "ML/images/Pasted image 20230323204458.png",
-    "ML/images/Pasted image 20230318094756.png",
-    "ML/images/Pasted image 20230318093847.png",
     "SE",
     "ML/images",
     "ML/Untitled.canvas",
