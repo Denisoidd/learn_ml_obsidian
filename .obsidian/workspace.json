@@ -13,11 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Attention.md",
+                "file": "ML/GANs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "1f0005f6bec202ed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Attention.md",
+                "file": "ML/GANs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Attention.md",
+                "file": "ML/GANs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Attention.md"
+                "file": "ML/GANs.md"
               }
             }
           },
@@ -158,13 +168,20 @@
   },
   "active": "6688d97501b9a8f3",
   "lastOpenFiles": [
-    "ML/Pasted image 20230328203710.png",
+    "ML/GANs.md",
+    "ML/Layers.md",
+    "ML/Theory on CONV.md",
+    "ML/Conv Networks.md",
+    "ML/Transposed Convolution.md",
+    "ML/Architectures.md",
+    "ML/Pasted image 20230329123301.png",
     "ML/Attention.md",
+    "ML/To refresh - learn about.md",
+    "ML/Pasted image 20230328203710.png",
     "ML/Pasted image 20230328205458.png",
     "ML/Sigmoid.md",
     "Project work.canvas",
     "Transformer Architecture.canvas",
-    "ML/To refresh - learn about.md",
     "ML/Interesting points.md",
     "ML/Learn about.md",
     "README.md",
@@ -176,25 +193,19 @@
     "ML/ReLU.md",
     "ML/Sequences.md",
     "ML/Points to work at - Questions.md",
-    "ML/Architectures.md",
     "ML/3D Vision.md",
     "Object detection.md",
     "Visual Transformer.md",
     "ML/Different topics.md",
     "ML/Neural networks.md",
     "ML/Initialisations.md",
-    "ML/Conv Networks.md",
     "ML/SENet.md",
-    "ML/Classic algorithms.md",
-    "ML/Classification.md",
-    "ML/kNN classification.md",
     "ML/images/Pasted image 20230316095754.png",
     "ML/images/Pasted image 20230318092028.png",
     "ML/images/Pasted image 20230323210126.png",
     "ML/images/Pasted image 20230323205432.png",
     "ML/images/Pasted image 20230323205113.png",
     "ML/images/Pasted image 20230323204907.png",
-    "ML/images/Pasted image 20230323204458.png",
     "SE",
     "ML/images",
     "ML/Untitled.canvas",

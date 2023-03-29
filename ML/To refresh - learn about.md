@@ -18,7 +18,8 @@
 5. Zero shot learning
 6. DALLE
 7. NeRF
-8. **[Stable Diffusion](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)**  + Control net
+8. ViT - **[16 x 16 video explan](https://www.youtube.com/watch?v=TrdevFK_am4&t=758s)**
+9. **[Stable Diffusion](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)**  + Control net
 	1. **[HF course of SD](https://github.com/huggingface/diffusion-models-class)**
-9. **[Active learning relabeling](https://cleanlab.ai/blog/active-learning/)**
-10. **[3D Computer vision ](https://learning3d.github.io/index.html)**
+10. **[Active learning relabeling](https://cleanlab.ai/blog/active-learning/)**
+11. **[3D Computer vision ](https://learning3d.github.io/index.html)**
