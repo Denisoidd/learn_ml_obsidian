@@ -5,6 +5,7 @@
 ### Code
 1. **[Pytorch tuto](https://github.com/jcjohnson/pytorch-examples)**
 2. **[Up-to-date pytorch tuto](https://github.com/pytorch/tutorials)**
+3. What is GIT-LFS?
 
 ### Classic CV
 1. Histogram of Oriented Gradients (HOG) - **[Notebook](https://colab.research.google.com/drive/1gagL7vzrJKtpB7RregxpL_-pUqUCLWoK#scrollTo=TNJmYuYdiHru)**
