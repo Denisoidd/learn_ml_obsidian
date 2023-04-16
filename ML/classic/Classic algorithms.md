@@ -5,4 +5,5 @@
 [[Xavier initialisation]]
 [[Kaiming initialisation]]
 [[Parameter search]]
-
+[[k-means]]
+[[Spectral clustering]]

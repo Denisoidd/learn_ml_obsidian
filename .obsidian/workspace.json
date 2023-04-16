@@ -18,13 +18,26 @@
             }
           },
           {
-            "id": "ecb45b4b9a347662",
+            "id": "1981ad0c4da6953e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/classic/Classic algorithms.md",
+                "file": "ML/Interesting points.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7ccf5cfe075203c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/diffusion/Diffusion models.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/classic/Classic algorithms.md",
+                "file": "ML/Interesting points.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/classic/Classic algorithms.md",
+                "file": "ML/Interesting points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/classic/Classic algorithms.md"
+                "file": "ML/Interesting points.md"
               }
             }
           },
@@ -167,42 +180,42 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ecb45b4b9a347662",
+  "active": "1981ad0c4da6953e",
   "lastOpenFiles": [
-    "ML/classic/Parameter search.md",
-    "ML/classic/Classic algorithms.md",
-    "ML/domain_shift/Cluster Alignment.md",
-    "ML/domain_shift/Domain Adversarial Neural Network.md",
-    "ML/domain_shift/Domain shift.md",
-    "ML/domain_shift/Joint Cluster Alignment.md",
-    "ML/domain_shift/Joint Distillation.md",
-    "ML/domain_shift/Unsupervised Domain Shift Methods.md",
-    "ML/domain_shift/Maximum Mean Discrepancy.md",
-    "ML/BLIP.md",
-    "ML/self-sup/SimCLR.md",
-    "ML/dl/GANs.md",
-    "ML/dl/Parameter update schemes.md",
-    "ML/classic/Softmax classification.md",
-    "ML/dl/ReLU.md",
-    "ML/dl/Optimization process.md",
-    "ML/dl/Neural networks.md",
-    "ML/dl/Initialisations.md",
-    "ML/self-sup/MoCo.md",
-    "ML/self-sup",
-    "ML/classic/Classification.md",
-    "ML/classic/k-Fold cross validation.md",
-    "ML/classic",
-    "ML/classic/Gradient accumulation.md",
-    "ML/dl",
+    "ML/Learn about.md",
+    "Learning tricks.md",
+    "Add conditional information to network.md",
     "ML/diffusion/Diffusion models.md",
+    "ML/diffusion/DDPM.md",
+    "ML/diffusion/DDIM.md",
+    "ML/Interesting points.md",
+    "ML/Points to work at - Questions.md",
+    "ML/To refresh - learn about.md",
+    "ML/dl/Tasks in DL.md",
+    "ML/dl/Neural networks.md",
+    "ML/dl/Layers.md",
+    "ML/dl/Initialisations.md",
+    "ML/classic/Xavier initialisation.md",
+    "ML/classic/Kaiming initialisation.md",
+    "ML/dl/Architectures.md",
+    "ML/cv/Conv Networks.md",
+    "ML/dl/Dropout.md",
+    "ML/dl/Normalisation layers.md",
+    "ML/dl/Activations.md",
+    "ML/dl/GANs.md",
+    "ML/dl/Sequences.md",
+    "ML/cv/Conv Layer.md",
+    "ML/classic/Classification.md",
+    "ML/classic/Softmax classification.md",
+    "ML/classic/SVM classification.md",
+    "ML/self-sup",
+    "ML/classic",
+    "ML/dl",
     "ML/diffusion",
     "ML/cv",
     "ML/images/Pasted image 20230405124020.png",
     "ML/images/Pasted image 20230405132527.png",
     "ML/domain_shift",
-    "ML/self-sup/Self-Supervised Learning.md",
-    "ML/self-sup/Contrastive Learning.md",
-    "ML/self-sup/CLIP.md",
     "knowledge_graph.png",
     "ML/images/Pasted image 20230404181225.png",
     "ML/images/Pasted image 20230328203710.png",

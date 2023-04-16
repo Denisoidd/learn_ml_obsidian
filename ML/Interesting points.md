@@ -12,3 +12,5 @@
 	 *props.sort(key=lambda x: (x[0], -x[1]))*
 ### Technology
 * **[Triton](https://github.com/triton-inference-server/server)**
+### LLM
+**[LLM in business](https://huyenchip.com/2023/04/11/llm-engineering.html)**
