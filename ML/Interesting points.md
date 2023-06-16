@@ -7,6 +7,7 @@
 * Mathieu Cord: **[link](http://www-poleia.lip6.fr/~cord/teaching-rdfia2021/)** 
 * Renaud Marlet: **[link](https://imagine.enpc.fr/~monasse/Stereo/)**
 * MLOps: **[ODS free course](https://ods.ai/tracks/ml-in-production-spring-23)**
+* UvA courses: **[link](https://uvadlc-notebooks.readthedocs.io/en/latest/)**
 ### Python
 * Sorting by double arguments with lambda function:
 	 *props.sort(key=lambda x: (x[0], -x[1]))*

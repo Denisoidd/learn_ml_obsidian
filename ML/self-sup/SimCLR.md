@@ -8,6 +8,7 @@
 Once training is finished, we don't need $g$ anymore, just $f$.
 
 ###### Loss function
+**InfoNCE loss** ^d02bbb
 $$
 
 l \; (i, j) = -\log \frac{\exp (\;\text{sim}(z_i, z_j)\; / \;\tau) }{\sum_{k=1}^{2N} \mathbb{1}_{k \neq i} \exp (\;\text{sim} (z_i, z_k) \;/ \;\tau) }

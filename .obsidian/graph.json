@@ -1,58 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": false,
+  "search": "tensor",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag: diffusion",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "tag: classic",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "tag: dl",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "tag: self-supervised",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "tag: domain_shift",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 1.65677083333333,
-  "lineSizeMultiplier": 2.06510416666667,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.416666666666667,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3414744101388238,
+  "scale": 0.836038660166978,
   "close": false
 }

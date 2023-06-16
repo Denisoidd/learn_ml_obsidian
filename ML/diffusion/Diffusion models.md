@@ -6,6 +6,11 @@
 **[1. Introduction notebook](https://colab.research.google.com/drive/1eK1E8Ua9sCn79AwHqKDFJyveI01I9yDj#scrollTo=pEa6TgCFtQwv)**
 
 
+#### Ideas
+##### Interior design
+* Add baseline countours of surroundings for good composition generation as a control net
+* Can we pass already generated image as a context for the next image generation but with a different angle
+
 #### General overview
 ##### Basic idea behind
 * Have a neural network [[Unet]] which has the same shape as input and output. 
@@ -17,3 +22,7 @@
 #### How to finetune Stable Diffusion
 **[Pokemon Generator](https://lambdalabs.com/blog/how-to-fine-tune-stable-diffusion-how-we-made-the-text-to-pokemon-model-at-lambda)**
 
+
+
+#### Control Nets
+[[Control Nets]]

@@ -9,5 +9,9 @@
 [[CLIP]] - contrastive learning between image and natural language sentences
 
 
+#### Torch Lightning tutorial
+**[Tutorial](https://lightning.ai/docs/pytorch/stable/notebooks/course_UvA-DL/13-contrastive-learning.html)**
+
+
 
 

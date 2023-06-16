@@ -2,7 +2,7 @@
 ### Idea
 To solve problems with weights initialisation we can let the network to normalise data itself
 ![[Pasted image 20230314092137.png]]
-As we can see in the image above due to the use of batchnorm we're not so susceptible to weight initialisation anymore
+As we can see in the image above due to the use of batch-norm we're not so susceptible to weight initialization anymore
 
 ### How it works
 $$

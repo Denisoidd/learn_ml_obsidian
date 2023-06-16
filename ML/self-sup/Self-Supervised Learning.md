@@ -1,10 +1,13 @@
 #self-supervised 
 #### Links
+[[SSL Cookbook]]
 [[Contrastive Learning]]
 **[Stanford lecture](http://cs231n.stanford.edu/slides/2022/lecture_14_jiajun.pdf)**
 **[SSL Notebook](https://colab.research.google.com/drive/1xJd_B_HpZvCJtSwRGc-iD4bGhu26BItR#scrollTo=61db5e66)**
+
 #### Future read
 * **[Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.14294.pdf)**
+
 #### What is it
 SSL allows models to automatically learn "good" representation space using the data in a given dataset **without** the need for the labels.
 
@@ -12,6 +15,9 @@ SSL allows models to automatically learn "good" representation space using the d
 
 #### Types of SSL
 ##### Image rotation
+
+^576b3f
+
 **Assumption**: model could correctly predict rotation angle of the image if only it has good understanding of what image should like in normal position
 ![[Pasted image 20230330092248.png]]
 ##### Jigsaw Puzzles

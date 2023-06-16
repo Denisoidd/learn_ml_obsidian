@@ -18,12 +18,38 @@
             }
           },
           {
-            "id": "1981ad0c4da6953e",
+            "id": "0c8b9a9c52286af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Interesting points.md",
+                "file": "GPU architectures.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "616f82ad5e89815d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Precision.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d379c87fe34a99fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/dl/RNN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,20 +57,20 @@
             }
           },
           {
-            "id": "d7ccf5cfe075203c",
+            "id": "7a0c324f91a96503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/diffusion/Diffusion models.md",
-                "mode": "preview",
+                "file": "SE/TensorRT.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -89,12 +115,22 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b02c8af0c14a9c9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "02dec5a7861e4e34",
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Interesting points.md",
+                "file": "SE/TensorRT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Interesting points.md",
+                "file": "SE/TensorRT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Interesting points.md"
+                "file": "SE/TensorRT.md"
               }
             }
           },
@@ -180,34 +216,41 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1981ad0c4da6953e",
+  "active": "7a0c324f91a96503",
   "lastOpenFiles": [
-    "ML/Learn about.md",
-    "Learning tricks.md",
-    "Add conditional information to network.md",
-    "ML/diffusion/Diffusion models.md",
-    "ML/diffusion/DDPM.md",
-    "ML/diffusion/DDIM.md",
-    "ML/Interesting points.md",
-    "ML/Points to work at - Questions.md",
-    "ML/To refresh - learn about.md",
-    "ML/dl/Tasks in DL.md",
-    "ML/dl/Neural networks.md",
-    "ML/dl/Layers.md",
-    "ML/dl/Initialisations.md",
-    "ML/classic/Xavier initialisation.md",
-    "ML/classic/Kaiming initialisation.md",
-    "ML/dl/Architectures.md",
-    "ML/cv/Conv Networks.md",
-    "ML/dl/Dropout.md",
-    "ML/dl/Normalisation layers.md",
-    "ML/dl/Activations.md",
-    "ML/dl/GANs.md",
-    "ML/dl/Sequences.md",
-    "ML/cv/Conv Layer.md",
-    "ML/classic/Classification.md",
+    "Precision.md",
+    "GPU architectures.md",
+    "ML/dl/RNN.md",
+    "SE/TensorRT.md",
+    "ML/BLIP.md",
+    "Triplet loss.md",
+    "Precision Calibration.md",
+    "ML/dl/ResNeXt.md",
     "ML/classic/Softmax classification.md",
-    "ML/classic/SVM classification.md",
+    "ML/self-sup/SimCLR.md",
+    "ML/self-sup/Self-Supervised Learning.md",
+    "ML/self-sup/CLIP.md",
+    "SSL Cookbook.md",
+    "Control Nets.md",
+    "Add conditional information to network.md",
+    "ML/dl/SENet.md",
+    "ML/diffusion/Diffusion models.md",
+    "ML/Learn about.md",
+    "ML/dl/GANs.md",
+    "ML/diffusion/DDPM.md",
+    "ML/cv/Conv Networks.md",
+    "ML/dl/ResNet.md",
+    "ML/dl/Batch Normalisation.md",
+    "Wide ResNet.md",
+    "ML/cv/Transposed Convolution.md",
+    "ML/dl/Attention.md",
+    "3D render modern bright living room with 1 couch and 1 table,accent lightning_21.png",
+    "3D render modern bright living room with 1 couch and 1 table,bokeh_2.png",
+    "3D render modern bright living room with 1 couch and 1 table,dslr_13.png",
+    "render modern bright living room with 1 couch and 1 table,4k_5.png",
+    "render modern bright living room with 1 couch and 1 table,bokeh_2.png",
+    "render modern bright living room with 1 couch and 1 table,volumetric fog_11.png",
+    "render modern bright living room with 1 couch and 1 table,spotlight_23.png",
     "ML/self-sup",
     "ML/classic",
     "ML/dl",
@@ -217,13 +260,6 @@
     "ML/images/Pasted image 20230405132527.png",
     "ML/domain_shift",
     "knowledge_graph.png",
-    "ML/images/Pasted image 20230404181225.png",
-    "ML/images/Pasted image 20230328203710.png",
-    "ML/images/Pasted image 20230330092624.png",
-    "ML/images/Pasted image 20230330095851.png",
-    "ML/images/Pasted image 20230330095625.png",
-    "ML/images/Pasted image 20230330094623.png",
-    "ML/images/Pasted image 20230330093537.png",
     "Project work.canvas",
     "Transformer Architecture.canvas",
     "SE",

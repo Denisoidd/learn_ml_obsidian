@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"b26f3a1916a307f6","x":-560,"y":-220,"width":400,"height":400,"type":"file","file":"ML/dl/Attention.md"},
+		{"id":"4ca278e152b39c66","x":20,"y":-380,"width":250,"height":80,"color":"3","type":"text","text":"How positional encoding works?"},
+		{"id":"e60f906f9df30e15","x":20,"y":-250,"width":250,"height":60,"color":"3","type":"text","text":"How ViT works?"}
+	],
+	"edges":[
+		{"id":"091e1fddd2c00639","fromNode":"b26f3a1916a307f6","fromSide":"right","toNode":"4ca278e152b39c66","toSide":"left"},
+		{"id":"e3bcfed78197cf6a","fromNode":"b26f3a1916a307f6","fromSide":"right","toNode":"e60f906f9df30e15","toSide":"left"}
+	]
+}

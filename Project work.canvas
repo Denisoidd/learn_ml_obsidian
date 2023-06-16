@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"group","id":"674ff7087315a714","x":-560,"y":-740,"width":760,"height":240,"label":"Topics"},
+		{"type":"text","text":"Which project to work on?","id":"ba9ab5724e8533e7","x":-600,"y":-200,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"What is this project for?","id":"6832f3ae860d01a4","x":-250,"y":-360,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Business","id":"07e760eb848e9fce","x":100,"y":-420,"width":120,"height":60,"color":"4"},
+		{"type":"text","text":"Topics","id":"9bcacb03c813a9f7","x":-250,"y":-720,"width":128,"height":60},
+		{"type":"text","text":"Neural Networks","id":"a1fdf9fcd5ceface","x":-540,"y":-580,"width":180,"height":60},
+		{"type":"text","text":"3D","id":"10ed637c29c8ef72","x":-320,"y":-580,"width":80,"height":60},
+		{"type":"text","text":"Generation AI","id":"20afdcdefc9c294a","x":-205,"y":-580,"width":165,"height":60},
+		{"type":"text","text":"How to start? Where to go? What to do?","id":"8df46b71b7e882a9","x":280,"y":-420,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice","id":"da772814c795ca75","x":634,"y":-443,"width":250,"height":143},
+		{"type":"text","text":"Web Application","id":"fd701aee56bd7458","x":0,"y":-580,"width":180,"height":60},
+		{"type":"text","text":"Learn new tech / topic","id":"166c45739ec219e2","x":120,"y":-80,"width":250,"height":60},
+		{"type":"text","text":"CV","id":"bfce2be2c65c0df5","x":280,"y":-330,"width":120,"height":50}
+	],
+	"edges":[
+		{"id":"2eff86e0af5c5aab","fromNode":"ba9ab5724e8533e7","fromSide":"right","toNode":"6832f3ae860d01a4","toSide":"left"},
+		{"id":"65118b27cbaaaef8","fromNode":"6832f3ae860d01a4","fromSide":"right","toNode":"07e760eb848e9fce","toSide":"left"},
+		{"id":"fadac53b8283573e","fromNode":"6832f3ae860d01a4","fromSide":"right","toNode":"bfce2be2c65c0df5","toSide":"left"},
+		{"id":"f8275ad20ab8a1f0","fromNode":"6832f3ae860d01a4","fromSide":"right","toNode":"166c45739ec219e2","toSide":"left"},
+		{"id":"b2e4fd92dd25d411","fromNode":"9bcacb03c813a9f7","fromSide":"bottom","toNode":"a1fdf9fcd5ceface","toSide":"top"},
+		{"id":"d0dc4bf1da0a5abd","fromNode":"9bcacb03c813a9f7","fromSide":"bottom","toNode":"10ed637c29c8ef72","toSide":"top"},
+		{"id":"a8f644192417a2f9","fromNode":"9bcacb03c813a9f7","fromSide":"bottom","toNode":"20afdcdefc9c294a","toSide":"top"},
+		{"id":"3a64493846d79459","fromNode":"9bcacb03c813a9f7","fromSide":"bottom","toNode":"fd701aee56bd7458","toSide":"top"},
+		{"id":"4285d583b74f442d","fromNode":"07e760eb848e9fce","fromSide":"right","toNode":"8df46b71b7e882a9","toSide":"left"},
+		{"id":"d80141dcad5dd05b","fromNode":"8df46b71b7e882a9","fromSide":"right","toNode":"da772814c795ca75","toSide":"left"}
+	]
+}
