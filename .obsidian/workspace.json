@@ -68,9 +68,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cc687e8ecc28dd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Control Nets.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SE/TensorRT.md",
+                "file": "Control Nets.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SE/TensorRT.md",
+                "file": "Control Nets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SE/TensorRT.md"
+                "file": "Control Nets.md"
               }
             }
           },
@@ -216,12 +229,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7a0c324f91a96503",
+  "active": "5cc687e8ecc28dd3",
   "lastOpenFiles": [
+    "Prompt engineering.md",
+    "SE/TensorRT.md",
     "Precision.md",
     "GPU architectures.md",
     "ML/dl/RNN.md",
-    "SE/TensorRT.md",
     "ML/BLIP.md",
     "Triplet loss.md",
     "Precision Calibration.md",
@@ -243,7 +257,6 @@
     "ML/dl/Batch Normalisation.md",
     "Wide ResNet.md",
     "ML/cv/Transposed Convolution.md",
-    "ML/dl/Attention.md",
     "3D render modern bright living room with 1 couch and 1 table,accent lightning_21.png",
     "3D render modern bright living room with 1 couch and 1 table,bokeh_2.png",
     "3D render modern bright living room with 1 couch and 1 table,dslr_13.png",

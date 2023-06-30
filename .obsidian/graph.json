@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tensor",
+  "search": "prom",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.836038660166978,
+  "scale": 0.5843581180567403,
   "close": false
 }
