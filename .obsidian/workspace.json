@@ -31,25 +31,12 @@
             }
           },
           {
-            "id": "616f82ad5e89815d",
+            "id": "ca86e073b7d07490",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Precision.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d379c87fe34a99fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/dl/RNN.md",
+                "file": "Visual Transformer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,33 +44,19 @@
             }
           },
           {
-            "id": "7a0c324f91a96503",
+            "id": "e43ae6d9070616bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SE/TensorRT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cc687e8ecc28dd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Control Nets.md",
+                "file": "ML/dl/Attention.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control Nets.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control Nets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Control Nets.md"
-              }
+              "state": {}
             }
           },
           {
@@ -229,12 +198,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5cc687e8ecc28dd3",
+  "active": "430d8967606399c3",
   "lastOpenFiles": [
+    "ML/dl/Attention.md",
+    "GPU architectures.md",
+    "Visual Transformer.md",
+    "Precision.md",
+    "LoRA.md",
+    "Textual inversion.md",
+    "BERT.md",
+    "Pasted image 20230717075559.png",
+    "Control Nets.md",
     "Prompt engineering.md",
     "SE/TensorRT.md",
-    "Precision.md",
-    "GPU architectures.md",
     "ML/dl/RNN.md",
     "ML/BLIP.md",
     "Triplet loss.md",
@@ -245,18 +221,12 @@
     "ML/self-sup/Self-Supervised Learning.md",
     "ML/self-sup/CLIP.md",
     "SSL Cookbook.md",
-    "Control Nets.md",
     "Add conditional information to network.md",
     "ML/dl/SENet.md",
     "ML/diffusion/Diffusion models.md",
     "ML/Learn about.md",
     "ML/dl/GANs.md",
     "ML/diffusion/DDPM.md",
-    "ML/cv/Conv Networks.md",
-    "ML/dl/ResNet.md",
-    "ML/dl/Batch Normalisation.md",
-    "Wide ResNet.md",
-    "ML/cv/Transposed Convolution.md",
     "3D render modern bright living room with 1 couch and 1 table,accent lightning_21.png",
     "3D render modern bright living room with 1 couch and 1 table,bokeh_2.png",
     "3D render modern bright living room with 1 couch and 1 table,dslr_13.png",
@@ -272,7 +242,6 @@
     "ML/images/Pasted image 20230405124020.png",
     "ML/images/Pasted image 20230405132527.png",
     "ML/domain_shift",
-    "knowledge_graph.png",
     "Project work.canvas",
     "Transformer Architecture.canvas",
     "SE",
