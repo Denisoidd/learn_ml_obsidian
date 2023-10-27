@@ -18,25 +18,12 @@
             }
           },
           {
-            "id": "0c8b9a9c52286af2",
+            "id": "c0af563be1a769cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPU architectures.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca86e073b7d07490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visual Transformer.md",
+                "file": "ML System Design - case studies.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,12 +31,12 @@
             }
           },
           {
-            "id": "e43ae6d9070616bc",
+            "id": "be0f02bcfffed8e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/dl/Attention.md",
+                "file": "System Design interview - General.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,39 +44,15 @@
             }
           },
           {
-            "id": "ea52152266391cad",
+            "id": "481732c6e6560b1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/diffusion/Diffusion models.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "d556fe4f56c4845e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "42839fc77b07a120",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LoRA fine-tune SD.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LoRA fine-tune SD.md",
+                "file": "ML System Design - case studies.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LoRA fine-tune SD.md",
+                "file": "ML System Design - case studies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LoRA fine-tune SD.md"
+                "file": "ML System Design - case studies.md"
               }
             }
           },
@@ -235,10 +198,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "42839fc77b07a120",
+  "active": "c0af563be1a769cb",
   "lastOpenFiles": [
-    "ML/diffusion/Diffusion models.md",
+    "System Design interview - General.md",
+    "Metrics.md",
+    "ML System Design - case studies.md",
+    "How to deal with highly imbalanced data?.md",
+    "Optical Flow.md",
+    "ML System Design - Overall pipeline.md",
     "LoRA fine-tune SD.md",
+    "ML/diffusion/Diffusion models.md",
     "ML/dl/Attention.md",
     "GPU architectures.md",
     "Visual Transformer.md",
@@ -258,12 +227,6 @@
     "ML/classic/Softmax classification.md",
     "ML/self-sup/SimCLR.md",
     "ML/self-sup/Self-Supervised Learning.md",
-    "ML/self-sup/CLIP.md",
-    "SSL Cookbook.md",
-    "Add conditional information to network.md",
-    "ML/dl/SENet.md",
-    "ML/Learn about.md",
-    "ML/dl/GANs.md",
     "3D render modern bright living room with 1 couch and 1 table,accent lightning_21.png",
     "3D render modern bright living room with 1 couch and 1 table,bokeh_2.png",
     "3D render modern bright living room with 1 couch and 1 table,dslr_13.png",
