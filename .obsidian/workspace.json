@@ -23,7 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML System Design - case studies.md",
+                "file": "ML/classic/Classification.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ce8083df9c8c4c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/classic/SVM classification.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "memory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "02dec5a7861e4e34",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML System Design - case studies.md",
+                "file": "ML/classic/SVM classification.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML System Design - case studies.md",
+                "file": "ML/classic/SVM classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML System Design - case studies.md"
+                "file": "ML/classic/SVM classification.md"
               }
             }
           },
@@ -198,11 +210,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c0af563be1a769cb",
+  "active": "09b7737b5aa8d1a6",
   "lastOpenFiles": [
+    "ML/classic/Classification.md",
+    "ML/dl/Parameter update schemes.md",
+    "ML System Design - case studies.md",
     "System Design interview - General.md",
     "Metrics.md",
-    "ML System Design - case studies.md",
     "How to deal with highly imbalanced data?.md",
     "Optical Flow.md",
     "ML System Design - Overall pipeline.md",
@@ -225,8 +239,6 @@
     "Precision Calibration.md",
     "ML/dl/ResNeXt.md",
     "ML/classic/Softmax classification.md",
-    "ML/self-sup/SimCLR.md",
-    "ML/self-sup/Self-Supervised Learning.md",
     "3D render modern bright living room with 1 couch and 1 table,accent lightning_21.png",
     "3D render modern bright living room with 1 couch and 1 table,bokeh_2.png",
     "3D render modern bright living room with 1 couch and 1 table,dslr_13.png",
