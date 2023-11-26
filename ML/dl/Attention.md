@@ -2,6 +2,7 @@
 **Links**
 **[Transformer implementation](https://colab.research.google.com/drive/1a7uFSHgQWJZcdfrOsaij1K-uMhVuAP2K#scrollTo=fdfd8db3)**
 [[Visual Transformer]]
+**[Attention in SD](https://vaclavkosar.com/ml/cross-attention-in-transformer-architecture)**
 
 ### Introduction
 [[RNN]] for sequence to sequence problem. 

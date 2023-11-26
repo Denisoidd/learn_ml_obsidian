@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/classic/SVM classification.md",
+                "file": "ML/dl/Attention.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "memory",
+                "query": "atte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/classic/SVM classification.md",
+                "file": "ML/dl/Attention.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/classic/SVM classification.md",
+                "file": "ML/dl/Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/classic/SVM classification.md"
+                "file": "ML/dl/Attention.md"
               }
             }
           },
@@ -210,7 +210,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "09b7737b5aa8d1a6",
+  "active": "4ce8083df9c8c4c1",
   "lastOpenFiles": [
     "ML/classic/Classification.md",
     "ML/dl/Parameter update schemes.md",
