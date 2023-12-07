@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "atte",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +210,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4ce8083df9c8c4c1",
+  "active": "09b7737b5aa8d1a6",
   "lastOpenFiles": [
     "ML/classic/Classification.md",
     "ML/dl/Parameter update schemes.md",
